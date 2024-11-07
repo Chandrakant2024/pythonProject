@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa7d9d6-6e3a-49d4-9d1e-91fea4c6570e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_PythonHelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_PythonHelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab007_Variables_Identifier_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab008_Dynamically_typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab008_Dynamically_typed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab014_Math_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywors_identifier_variables/Lab014_Math_Functions.py" afterDir="false" />
-    </list>
+    <list default="true" id="2aa7d9d6-6e3a-49d4-9d1e-91fea4c6570e" name="Changes" comment="7thnovcode" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730895815019</updated>
     </task>
+    <task id="LOCAL-00001" summary="7thnovcode">
+      <option name="closed" value="true" />
+      <created>1730947925243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730947925243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7thnovcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="7thnovcode" />
   </component>
 </project>
