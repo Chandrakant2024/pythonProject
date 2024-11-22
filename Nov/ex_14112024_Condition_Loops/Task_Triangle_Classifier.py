@@ -7,13 +7,24 @@ Isosceles : 2 sides are equal
 
 Scalene : all are diff
 '''
-s1=int(input("Enter first side\n"))
-s2=int(input("Enter second side\n"))
-s3=int(input("Enter third side\n"))
+def classify_triangle(a, b, c):
+    if a > 0 and b > 0 and c > 0:
+        if a + b > c and a + c > b and b + c > a:
+            if a == b == c:
+                return "Equilateral"
+            elif a == b or b == c or a == c:
+                return "Isosceles"
+            else:
+                return "Scalene"
+        else:
+            print("Not a Triangle")
+    else:
+        print("Not a Valid Length")
 
-if (s1==s2 and s1==s3):
-    print("It's an Equilateral triangle")
-elif (s1==s2 or s1==s3 or s2==s3):
-    print("It's an Isosceles triangle")
-else:
-    print("It's a Scalene triangle")
+
+side1 = float(input("Enter the first side: "))
+side2 = float(input("Enter the second side: "))
+side3 = float(input("Enter the third side: "))
+
+result = classify_triangle(side1, side2, side3)
+print(f"The triangle is classified as: {result}")
