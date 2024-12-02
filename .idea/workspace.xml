@@ -5,33 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aa7d9d6-6e3a-49d4-9d1e-91fea4c6570e" name="Changes" comment="18thnovupdated">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab076_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab077_Inner_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab078_Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab079_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab080_With_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082_Decors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084_Left-Triangle_Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_Right-Triangle_Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab086_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab087_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab088_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab090_Lambda_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab091_Lambda_Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab092_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab093_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab094_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab095_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab096_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab099_Set_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab100_Set_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab101_Set_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab102_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab103_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab104_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab105_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab106_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab107_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab108_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab109_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab110_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113IQ_count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab114_OOPS_CLASS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab115_CLASS_DOG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab116_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab117_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab118_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab119_Calc_Non_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab120_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab121_OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab122_OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab123_Class_Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab124_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab125_Encaps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Task_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Task_Leap_Year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Task_Triangle_Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Task_Triangle_Classifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +165,42 @@
     "Python.Lab083_Type_Conversion.executor": "Run",
     "Python.Lab084_Left-Triangle_Pattern.executor": "Run",
     "Python.Lab085_Right-Triangle_Pattern.executor": "Run",
+    "Python.Lab086_Lambda.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088_Lambda.executor": "Run",
+    "Python.Lab089_Lambda.executor": "Run",
+    "Python.Lab090_Lambda_Mul.executor": "Run",
+    "Python.Lab091_Lambda_Power.executor": "Run",
+    "Python.Lab092_List.executor": "Run",
+    "Python.Lab093_List.executor": "Run",
+    "Python.Lab094_List.executor": "Run",
+    "Python.Lab095_Tuple.executor": "Run",
+    "Python.Lab096_Tuple.executor": "Run",
+    "Python.Lab097_Tuple.executor": "Run",
+    "Python.Lab098_Set.executor": "Run",
+    "Python.Lab099_Set_P2.executor": "Run",
     "Python.Lab09_task1.executor": "Run",
     "Python.Lab09_task2.executor": "Run",
+    "Python.Lab100_Set_P3.executor": "Run",
+    "Python.Lab101_Set_P4.executor": "Run",
+    "Python.Lab102_Dict.executor": "Run",
+    "Python.Lab103_Dict.executor": "Run",
+    "Python.Lab104_Dict_Mul.executor": "Run",
+    "Python.Lab105_Dict_Mul.executor": "Run",
+    "Python.Lab106_Dict_Concepts.executor": "Run",
+    "Python.Lab107_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab114_OOPS_CLASS.executor": "Run",
+    "Python.Lab115_CLASS_DOG.executor": "Run",
+    "Python.Lab116_Class_Dog_P2.executor": "Run",
+    "Python.Lab117_Class_Dog_P3.executor": "Run",
+    "Python.Lab118_Person.executor": "Run",
+    "Python.Lab119_Calc_Non_PC.executor": "Run",
+    "Python.Lab120_Calc_PC.executor": "Run",
+    "Python.Lab121_OOPS.executor": "Run",
+    "Python.Lab122_OOPS.executor": "Run",
+    "Python.Lab123_Class_Instance.executor": "Run",
+    "Python.Lab124_Encap.executor": "Run",
+    "Python.Lab125_Encaps.executor": "Run",
     "Python.Lab_024_strings.executor": "Run",
     "Python.Lan022_Strings.executor": "Run",
     "Python.Task.executor": "Run",
